@@ -25,20 +25,13 @@ netflix_data_exploration/
   - Release year vs date added
   - Growth of Netflix catalog over time
 
-- **Country & Regional Insights**
-  - Most represented countries
-  - Movies vs TV Shows by country
-  - Map visualization of content distribution
-
 - **Duration & Format**
   - Distribution of movie durations
   - Number of TV show seasons
-  - Side-by-side comparison of Movies vs TV Shows
 
 - **Text Analysis (Descriptions)**
   - Word cloud of show descriptions
   - Keyword frequency
-  - Optional sentiment analysis
 
 ## 🗃️ Dataset Source
 
