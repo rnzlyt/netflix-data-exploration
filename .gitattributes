@@ -1,0 +1,29 @@
+# Jupyter Notebooks → always LF
+*.ipynb text eol=lf
+
+# Python scripts and notebooks → normalize as LF
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# Data files → keep as-is (don’t mess with line endings)
+*.csv binary
+*.tsv binary
+*.xlsx binary
+*.xls binary
+*.parquet binary
+*.feather binary
+
+# Images → always binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Other binaries
+*.zip binary
+*.gz binary
+*.tar binary
